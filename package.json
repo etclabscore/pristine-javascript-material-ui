@@ -1,7 +1,7 @@
 {
-  "name": "@etclabscore/pristine-javascript-react-material-ui",
+  "name": "@etclabscore/pristine-javascript-material-ui",
   "version": "0.0.0-development",
-  "homepage": "https://etclabscore.github.io/pristine-javascript-react-material-ui/",
+  "homepage": "https://etclabscore.github.io/pristine-javascript-material-ui/",
   "description": "",
   "main": "build/index.js",
   "scripts": {
