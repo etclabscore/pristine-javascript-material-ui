@@ -11,20 +11,15 @@ import "moment/locale/en-ca";
 import i18next from "i18next";
 
 const momentMap = {
-  "kr": "ko",
   "cn": "zh-cn",
   "en-US": "en-ca",
+  "kr": "ko",
 };
 
 i18n
   .use(LanguageDetector)
   .use(initReactI18next)
   .init({
-    resources: {
-      en: { translation: enJSON },
-      kr: { translation: krJSON },
-      cn: { translation: cnJSON },
-    },
     interpolation: {
       escapeValue: false,
       format: (value, format, lng) => {
@@ -39,6 +34,11 @@ i18n
             break;
         }
       },
+    },
+    resources: {
+      cn: { translation: cnJSON },
+      en: { translation: enJSON },
+      kr: { translation: krJSON },
     },
   });
 

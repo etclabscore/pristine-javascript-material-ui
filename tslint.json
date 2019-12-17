@@ -2,7 +2,7 @@
   "extends": [
     "tslint:recommended"
   ],
-  "rules": {
+  "jsRules": {
     "ordered-imports": false,
     "object-literal-sort-keys": false,
     "no-console": [true, "log"],
