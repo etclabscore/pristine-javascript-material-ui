@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/etclabscore/pristine-javascript-material-ui/compare/1.0.0...1.0.1) (2019-12-17)
+
+
+### Bug Fixes
+
+* package.json ([ba63170](https://github.com/etclabscore/pristine-javascript-material-ui/commit/ba6317022ecf328bc9cb843b6db4d107ac78f0eb))
+
 # 1.0.0 (2019-12-17)
 
 
