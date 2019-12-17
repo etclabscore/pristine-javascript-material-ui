@@ -20,7 +20,7 @@ const MyApp = () => {
         <Toolbar>
           <Grid container alignContent="center" alignItems="center" justify="space-between">
             <Typography variant="h6">{t("Pristine")}</Typography>
-            <Typography variant="caption">typescript-react-material-ui</Typography>
+            <Typography variant="caption">javascript-react-material-ui</Typography>
             <Grid item>
               <LanguageMenu />
               <Tooltip title={t("Toggle Dark Mode")}>

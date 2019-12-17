@@ -1,8 +1,8 @@
-# Pristine Typescript React Materal UI
+# Pristine Javascript React Materal UI
 
-An open source repository in its original condition. It leverages Typescript, React, Material UI theming, moment.js and i18next to give a good starting point for new and existing projects.
+An open source repository in its original condition. It leverages Typescript Compiler to enable features like destructing, React, Material UI theming, moment.js and i18next to give a good starting point for new and existing projects.
 
-Pristine Typescript React Material UI is a fork of [Pristine](https://github.com/etclabscore/pristine).
+Pristine Javascript React Material UI is a fork of [Pristine](https://github.com/etclabscore/pristine).
 
 There are a lack of repositories to start from to build community driven, multi-language open source projects. This is a complete starting point, it follows a Documentation Driven Development approach, and can be used as a resource to augment existing documentation.
 
