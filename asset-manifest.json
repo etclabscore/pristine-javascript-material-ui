@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pristine-javascript-react-material-ui/static/css/main.8455fdcf.chunk.css",
+    "main.js": "/pristine-javascript-react-material-ui/static/js/main.83f5724d.chunk.js",
+    "main.js.map": "/pristine-javascript-react-material-ui/static/js/main.83f5724d.chunk.js.map",
+    "runtime-main.js": "/pristine-javascript-react-material-ui/static/js/runtime-main.b617a7de.js",
+    "runtime-main.js.map": "/pristine-javascript-react-material-ui/static/js/runtime-main.b617a7de.js.map",
+    "static/js/2.ba1f8289.chunk.js": "/pristine-javascript-react-material-ui/static/js/2.ba1f8289.chunk.js",
+    "static/js/2.ba1f8289.chunk.js.map": "/pristine-javascript-react-material-ui/static/js/2.ba1f8289.chunk.js.map",
+    "index.html": "/pristine-javascript-react-material-ui/index.html",
+    "precache-manifest.1e6ff8528aedadeeed921dfb6fe05743.js": "/pristine-javascript-react-material-ui/precache-manifest.1e6ff8528aedadeeed921dfb6fe05743.js",
+    "service-worker.js": "/pristine-javascript-react-material-ui/service-worker.js",
+    "static/css/main.8455fdcf.chunk.css.map": "/pristine-javascript-react-material-ui/static/css/main.8455fdcf.chunk.css.map",
+    "static/js/2.ba1f8289.chunk.js.LICENSE": "/pristine-javascript-react-material-ui/static/js/2.ba1f8289.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b617a7de.js",
+    "static/js/2.ba1f8289.chunk.js",
+    "static/css/main.8455fdcf.chunk.css",
+    "static/js/main.83f5724d.chunk.js"
+  ]
+}
